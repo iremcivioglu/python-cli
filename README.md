@@ -1,6 +1,6 @@
 ## Projenin Amacı
 
-CLI aracı kullanılarak belirtilen dizinde bulunan dosyaları uzantılarına göre ayırıp bu dosyaları ilgili klasörlere taşır.
+CLI aracı kullanılarak, belirtilen dizinde bulunan dosyalar, uzantılarına göre ayrılıp bu dosyaları ilgili klasörlere taşınır.
 
 ## Projeyi Çalıştırma
 
