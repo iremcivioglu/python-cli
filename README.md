@@ -7,7 +7,7 @@ CLI aracı kullanılarak, belirtilen dizinde bulunan dosyalar, uzantılarına g�
 1) Öncelikle **cmd** ekranı açmak için;
 - **Windows Tuşu + R** ile çalıştırı açın.
 
-- Cmd yazarak enter tuşuna basın.
+- **Cmd** yazarak enter tuşuna basın.
 
 2) **cd** komutu ile projenin bulunduğu dizine gidin.
 
