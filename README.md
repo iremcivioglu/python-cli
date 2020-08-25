@@ -4,7 +4,8 @@ CLI aracı kullanılarak, belirtilen dizinde bulunan dosyalar, uzantılarına g�
 
 ## Projeyi Çalıştırma
 
-1) Öncelikle **cmd** ekranı açmak için;
+Window için,
+1) Öncelikle **cmd** ekranını açın.
 - **Windows Tuşu + R** ile çalıştırı açın.
 
 - **Cmd** yazarak enter tuşuna basın.
