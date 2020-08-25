@@ -1,0 +1,21 @@
+## Projenin Amacı
+
+CLI aracı kullanılarak belirtilen dizinde bulunan dosyaları uzantılarına göre ayırıp bu dosyaları ilgili klasörlere taşır.
+
+## Projeyi Çalıştırma
+
+1) Öncelikle **cmd** ekranı açmak için;
+- **Windows Tuşu + R** ile çalıştırı açın.
+
+- Cmd yazarak enter tuşuna basın.
+
+2) **cd** komutu ile projenin bulunduğu dizine gidin.
+
+![](https://github.com/iremcivioglu/python-cli/blob/master/project_photos/project_file_path.png)
+
+3) Aşağıda belirtilen kısımdaki komutu çalıştırın.
+
+![](https://github.com/iremcivioglu/python-cli/blob/master/project_photos/run_command.png)
+
+4) Dosyalarınızı sınıflandırmak istediğiniz dizini girin.
+
