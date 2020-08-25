@@ -33,7 +33,7 @@ def classify_files(args):
 
 def main():
     parser = argparse.ArgumentParser() 
-    parser.add_argument('--classify', help='Dosyaları uzantılarına göre sınıflandırmak için komutu giriniz.')
+    parser.add_argument('classify', help='Dosyaları uzantılarına göre sınıflandırmak için komutu giriniz.')
     parser.set_defaults(func=classify_files)
     args = parser.parse_args()
     args.func(args)
