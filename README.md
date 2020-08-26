@@ -20,3 +20,4 @@ Window için,
 
 4) Dosyalarınızı sınıflandırmak istediğiniz dizini girin.
 
+![](https://github.com/iremcivioglu/python-cli/blob/master/project_photos/directory.png)
