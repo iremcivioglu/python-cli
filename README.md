@@ -6,11 +6,11 @@ CLI aracı kullanılarak, belirtilen dizinde bulunan dosyalar, uzantılarına g�
 
 Window için,
 1) **Cmd** ekranını açmak için:
-- **Windows Tuşu + R** ile çalıştırı açın.
+- **Windows Tuşu + R** ile Çalıştır'ı açın.
 
 - **Cmd** yazarak enter tuşuna basın.
 
-2) **cd** komutu ile projenin bulunduğu dizine gidin.
+2) **cd** komutu ile proje dosyasının bulunduğu dizine gidin.
 
 ![](https://github.com/iremcivioglu/python-cli/blob/master/project_photos/project_file_path.png)
 
