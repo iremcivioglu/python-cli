@@ -21,3 +21,10 @@ Windows için,
 4) Dosyalarınızı sınıflandırmak istediğiniz dizini girin.
 
 ![](https://github.com/iremcivioglu/python-cli/blob/master/project_photos/directory.png)
+
+## main.exe Dosyasını Çalıştırma
+
+1) main.exe dosyasını çevre değişkenlerine ekleyin.
+2) Herhangi bir dosya yolunda aşağıdaki kodu çalıştırıp daha sonra dosyalarınızı sınıflandırmak istediğiniz dizini girin.
+
+![](https://github.com/iremcivioglu/python-cli/blob/master/project_photos/exe_command.png)
